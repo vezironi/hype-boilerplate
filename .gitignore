@@ -1,0 +1,12 @@
+# dependencies / build output
+node_modules/
+web/build/
+web/dist/
+
+# editor / os
+.DS_Store
+Thumbs.db
+*.log
+
+# local overrides
+config/config.local.lua

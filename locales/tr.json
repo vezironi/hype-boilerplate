@@ -1,0 +1,19 @@
+{
+    "general": {
+        "hello_world": "Merhaba, Dünya!",
+        "welcome_message": "Uygulamamıza hoş geldiniz!"
+    },
+
+    "ui": {
+        "title": "hype-boilerplate",
+        "description": "NUI bağlı. Arayüzünü %s içinde geliştir.",
+        "close": "Kapat (ESC)"
+    },
+
+    "notify": {
+        "not_loaded": "Karakteriniz henüz yüklenmedi.",
+        "no_permission": "Bunu yapmak için yetkiniz yok.",
+        "too_fast": "Biraz yavaşla.",
+        "generic_error": "Bir şeyler ters gitti, lütfen tekrar deneyin."
+    }
+}

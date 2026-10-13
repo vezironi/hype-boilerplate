@@ -1,0 +1,3 @@
+-- Executed automatically on resource start while Config.AutoRunSQL is true.
+-- Statements are split on ';', so keep one statement per block and avoid
+-- stored procedures here. Always write them so re-running is harmless.

@@ -1,0 +1,19 @@
+{
+    "general": {
+        "hello_world": "Hello, World!",
+        "welcome_message": "Welcome to our application!"
+    },
+
+    "ui": {
+        "title": "hype-boilerplate",
+        "description": "NUI is connected. Build your interface in %s.",
+        "close": "Close (ESC)"
+    },
+
+    "notify": {
+        "not_loaded": "Your character isn't loaded yet.",
+        "no_permission": "You don't have permission to do that.",
+        "too_fast": "Slow down a little.",
+        "generic_error": "Something went wrong, please try again."
+    }
+}
